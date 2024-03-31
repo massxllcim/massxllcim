@@ -6,3 +6,4 @@
   <a align="center" href="https://www.github.com/massxllcim" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a align="center" href="https://www.instagram.com/massxll_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+Kendi Halinde Takılan Bodçuğ
